@@ -166,8 +166,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [Bcrypt-url]: https://yepcode.io/
 [JWT]: https://img.shields.io/badge/JWT-4A4A55?style=for-the-badge&logo=jwt&logoColor=FF3E00
 [JWT-url]: https://jwt.io/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
+[joi]: https://img.shields.io/badge/joi-FF2D20?style=for-the-badge&logo=joil&logoColor=white
+[joi-url]:https://joi.dev/
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
