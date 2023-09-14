@@ -12,7 +12,9 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Bcrypt][Bcrypt.js]][Bcrypt-url]
 * [![JWT][JWT]][JWT-url]
 * [![joi][joi]][joi-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![Morgan][Morgan]][Morgan-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -166,7 +168,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [JWT-url]: https://jwt.io/
 [joi]: https://img.shields.io/badge/joi-FF2D20?style=for-the-badge&logo=joil&logoColor=white
 [joi-url]:https://joi.dev/
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
+[Morgan]: https://img.shields.io/badge/Morgan-563D7C?style=for-the-badge&logo=morgan&logoColor=white
+[Morgan-url]:https://coralogix.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
