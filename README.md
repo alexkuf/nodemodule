@@ -46,6 +46,10 @@ _Chalk should only 4.1.2 version._
 | /useers/:id | PATCH | The Registered user | Chsnge isBusiness status|
 | /useers/:id | DELETE | The Registered user or admin  | Delete user|
 
+## User schema
+```
+{test}
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
