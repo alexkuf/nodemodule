@@ -9,7 +9,7 @@ Server-side development for a web application that includes a management system 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
  [![Node][Node.js]][Node-url]  [![MongoDB][MongoDB]][MongoDB-url]  [![Express][Express.js]][Express-url]  [![Bcrypt][Bcrypt.js]][Bcrypt-url]  [![JWT][JWT]][JWT-url]  [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
- [![Mongoose][Mongoose.js]][Mongoose-url]  [![Chalk][Chalk]][Chalk-url]  [![Cors][Cors]][Cors-url]
+ [![Mongoose][Mongoose.js]][Mongoose-url]  [![Chalk][Chalk.com]][Chalk-url]  [![Cors][Cors]][Cors-url]
 
 
 
