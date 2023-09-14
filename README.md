@@ -1,4 +1,4 @@
-#Shopping store
+### Shopping store
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
