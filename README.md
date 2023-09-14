@@ -268,8 +268,6 @@ title: {
   user_id: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
 });
 ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
