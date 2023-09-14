@@ -29,14 +29,12 @@ _Chalk should only 4.1.2 version._
     npm run dev
     ```
 
+
 ### More info   
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
-
-
-
 
 
 
