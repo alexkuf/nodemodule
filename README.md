@@ -23,8 +23,11 @@ _Chalk should only 4.1.2 version._
    ```sh
    npm i chalk@4.1.2 
    ```
-
-
+### Starting
+_Run dev server:_
+   ```sh
+   npm run dev
+   ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
