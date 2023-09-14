@@ -40,6 +40,8 @@ _Chalk should only 4.1.2 version._
 | --- | --- | --- | --- |
 | /user | POST | All | Registered user|
 | /useers/login | POST | All | Login |
+| /useers | GET | Admin | Get all users |
+| /useers/:id | GET | All | The Registered user or admin|
 
 
 
