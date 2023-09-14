@@ -11,7 +11,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Node][Node.js]][Node-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
 * [![Express][Express.js]][Express-url]
-* [![Angular][Angular.io]][Angular-url]
+* [![Bcrypt][Bcrypt.js]][Bcrypt-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
@@ -162,8 +162,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [MongoDB-url]: https://www.mongodb.com/
 [Express.js]: https://img.shields.io/badge/Express.js-35495E?style=for-the-badge&logo=expressjs&logoColor=4FC08D
 [Express-url]: https://expressjs.com/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
+[Bcrypt.js]: https://img.shields.io/badge/Bcrypt.js-DD0031?style=for-the-badge&logo=bcrypt&logoColor=white
+[Bcrypt-url]: https://yepcode.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
 [Svelte-url]: https://svelte.dev/
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
