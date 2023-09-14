@@ -73,7 +73,7 @@ _Below is an example of how you can instruct your audience on installing and set
 [product-screenshot]: images/screenshot.png
 [Node.js]: https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Node-url]: https://nodejs.org/
-[MongoDB]: https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB
+[MongoDB]: https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=green
 [MongoDB-url]: https://www.mongodb.com/
 [Express.js]: https://img.shields.io/badge/Express.js-35495E?style=for-the-badge&logo=expressjs&logoColor=4FC08D
 [Express-url]: https://expressjs.com/
