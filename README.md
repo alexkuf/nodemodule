@@ -9,7 +9,7 @@ Server-side development for a web application that includes a management system 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
  [![Node][Node.js]][Node-url]  [![MongoDB][MongoDB]][MongoDB-url]  [![Express][Express.js]][Express-url]  [![Bcrypt][Bcrypt.js]][Bcrypt-url]  [![JWT][JWT]][JWT-url]  [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Mongoose][Mongoose.js]][Mongoose-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
@@ -166,5 +166,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [joi-url]:https://joi.dev/
 [Morgan]: https://img.shields.io/badge/Morgan-563D7C?style=for-the-badge&logo=morgan&logoColor=white
 [Morgan-url]:https://coralogix.com/
+[Mongoose.js]: https://img.shields.io/badge/Mongoose-0769AD?style=for-the-badge&logo=mongoose&logoColor=white
+[Mongoosejs-url]: https://mongoosejs.com/ 
+[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+[JQuery-url]: https://jquery.com 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
