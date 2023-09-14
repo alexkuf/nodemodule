@@ -15,18 +15,13 @@ Server-side development for a web application that includes a management system 
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
- 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-2. Install NPM packages
+1. Install NPM packages
    ```sh
    npm install
    ```
  3. Install Chalk version:
   ```sh
-   npm install
+   npm i chalk@4.1.2 
    ```
 5. Enter your API in `config.js`
    ```js
