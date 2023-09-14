@@ -13,7 +13,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [![Express][Express.js]][Express-url]
 * [![Bcrypt][Bcrypt.js]][Bcrypt-url]
 * [![JWT][JWT]][JWT-url]
-* [![Laravel][Laravel.com]][Laravel-url]
+* [![joi][joi]][joi-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
