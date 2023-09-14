@@ -166,7 +166,108 @@ _Chalk should only 4.1.2 version._
 | /cards/:id | PATCH | A Registered user |Like card|
 | /cards/:id | DELETE | he user who created the card or admin  | Delete card|
 
-
+## Card model
+```
+title: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+  subtitle: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 255,
+  },
+  description: {
+    type: String,
+    required: true,
+    minlength: 2,
+    maxlength: 1024,
+  },
+  phone: {
+    type: String,
+    required: true,
+    minlength: 9,
+    maxlength: 10,
+  },
+  email: {
+    type: String,
+    required: true,
+    minlength: 6,
+    maxlength: 255,
+    unique: false,
+  },
+  web: {
+    type: String,
+    required: true,
+    minlength: 6,
+    maxlength: 255,
+  },
+  image: {
+    url: {
+      type: String,
+      minlength: 11,
+      maxlength: 1024,
+    },
+    alt: {
+      type: String,
+      minlength: 2,
+      maxlength: 1024,
+    },
+  },
+  address: {
+    state: {
+      type: String,
+      minlength: 0,
+      maxlength: 255,
+      default: "",
+    },
+    country: {
+      type: String,
+      required: true,
+      minlength: 2,
+      maxlength: 255,
+    },
+    city: {
+      type: String,
+      required: true,
+      minlength: 2,
+      maxlength: 255,
+    },
+    street: {
+      type: String,
+      required: true,
+      minlength: 2,
+      maxlength: 255,
+    },
+    houseNumber: {
+      type: String,
+      required: true,
+      minlength: 1,
+      maxlength: 8,
+    },
+    zip: {
+      type: String,
+      minlength: 1,
+      maxlength: 14,
+    },
+  },
+  bizNumber: {
+    type: String,
+    required: true,
+    minlength: 3,
+    maxlength: 999_999_999,
+    unique: true,
+  },
+  likes: {
+    user_id: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
+  },
+  createdAt: { type: Date, default: Date.now },
+  user_id: { type: mongoose.Schema.Types.ObjectId, ref: "User" },
+});
+```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
