@@ -13,7 +13,7 @@ Server-side development for a web application that includes a management system 
 <!-- GETTING STARTED -->
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+_Chalk should only 4.1.2 version._
 
 1. Install NPM packages
    ```sh
