@@ -168,6 +168,6 @@ Use this space to list resources you find helpful and would like to give credit 
 [Mongoose.js]: https://img.shields.io/badge/Mongoose-0769AD?style=for-the-badge&logo=mongoose&logoColor=white
 [Mongoose-url]: https://mongoosejs.com/
 [Chalk]: https://img.shields.io/badge/Chalk-0769AD?style=for-the-badge&logo=chalk&logoColor=white
-[Chalk-url]: https://docs.chalk.ai/ 
+[Chalk-url]: https://www.npmjs.com/ 
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com 
