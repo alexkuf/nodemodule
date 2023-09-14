@@ -33,11 +33,13 @@ _Chalk should only 4.1.2 version._
    ```
 
 
-### More info   
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+### More info 
+
+## User end point
+| URL | METHOD | ACTION | Authorization|
+| --- | --- | --- | --- |
+| /user | POST | All | Registered user|
+| /useers/login | POST | All | Login
 
 
 
