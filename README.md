@@ -24,8 +24,10 @@ _Chalk should only 4.1.2 version._
    npm i chalk@4.1.2 
    ```
 ### Starting
+
  _Run dev server:_
-    ```sh
+ 
+ 1.  ```sh
     npm run dev
     ```
 
