@@ -19,7 +19,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    npm install
    ```
- 3. Install Chalk version:
+2. Install Chalk version:
   ```sh
    npm i chalk@4.1.2 
    ```
