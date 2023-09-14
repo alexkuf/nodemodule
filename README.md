@@ -39,7 +39,7 @@ _Chalk should only 4.1.2 version._
 | URL | METHOD | ACTION | Authorization|
 | --- | --- | --- | --- |
 | /user | POST | All | Registered user|
-| /useers/login | POST | All | Login
+| /useers/login | POST | All | Login |
 
 
 
