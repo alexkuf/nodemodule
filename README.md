@@ -155,6 +155,16 @@ _Chalk should only 4.1.2 version._
   cards: Array,
 });
 ```
+## Card end point
+| URL | METHOD | ACTION | Authorization|
+| --- | --- | --- | --- |
+| /cards | GET | All | All cards|
+| /cards/my-cards | GET | The Registered use | Get user cards |
+| /cards/:id | GET | All | Get card |
+| /cards| POST | Business user | Create new card|
+| /cards/:id | PUT | The user who created the card | Edit card|
+| /cards/:id | PATCH | A Registered user |Like card|
+| /cards/:id | DELETE | he user who created the card or admin  | Delete card|
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
