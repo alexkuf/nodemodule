@@ -10,7 +10,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 * [![Node][Node.js]][Node-url]
 * [![MongoDB][MongoDB]][MongoDB-url]
-* [![Vue][Vue.js]][Vue-url]
+* [![Express][Express.js]][Express-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
@@ -160,8 +160,8 @@ Use this space to list resources you find helpful and would like to give credit 
 [Node-url]: https://nodejs.org/
 [MongoDB]: https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=MongoDB&logoColor=61DAFB
 [MongoDB-url]: https://www.mongodb.com/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
+[Express.js]: https://img.shields.io/badge/Express.js-35495E?style=for-the-badge&logo=expressjs&logoColor=4FC08D
+[Express-url]: https://expressjs.com/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
 [Angular-url]: https://angular.io/
 [Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
