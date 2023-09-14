@@ -1,0 +1,11 @@
+{
+  "mongoDB": {
+    "MONGO_URL": "mongodb://127.0.0.1/my_rest_api_1027082023-1"
+  },
+  "server": {
+    "PORT": 3000
+  },
+  "auth": {
+    "JWT_SECRET": ""
+  }
+}
