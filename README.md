@@ -46,9 +46,114 @@ _Chalk should only 4.1.2 version._
 | /useers/:id | PATCH | The Registered user | Chsnge isBusiness status|
 | /useers/:id | DELETE | The Registered user or admin  | Delete user|
 
-## User schema
+## User model
 ```
-{test}
+  name: {
+    first: {
+      type: String,
+      required: true,
+      minlength: 2,
+      maxlength: 255,
+    },
+    middle: { type: String },
+    last: {
+      type: String,
+      required: true,
+      minlength: 6,
+      maxlength: 255,
+    },
+    _id: {
+      type: mongoose.Types.ObjectId,
+      default: new mongoose.mongo.ObjectId(),
+    },
+  },
+  phone: {
+    type: String,
+    required: true,
+    minlength: 9,
+    maxlength: 10,
+  },
+  email: {
+    type: String,
+    required: true,
+    minlength: 6,
+    maxlength: 255,
+    unique: true,
+  },
+  password: {
+    type: String,
+    required: true,
+    minlength: 6,
+    maxlength: 1024,
+  },
+  image: {
+    url: {
+      type: String,
+      minlength: 11,
+      maxlength: 1024,
+    },
+    alt: {
+      type: String,
+      minlength: 2,
+      maxlength: 1024,
+    },
+    _id: {
+      type: mongoose.Types.ObjectId,
+      default: new mongoose.mongo.ObjectId(),
+    },
+  },
+  address: {
+    state: {
+      type: String,
+      minlength: 0,
+      maxlength: 400,
+      default: "",
+    },
+    country: {
+      type: String,
+      required: true,
+      minlength: 2,
+      maxlength: 400,
+    },
+    city: {
+      type: String,
+      required: true,
+      minlength: 2,
+      maxlength: 400,
+    },
+    street: {
+      type: String,
+      required: true,
+      minlength: 2,
+      maxlength: 400,
+    },
+    houseNumber: {
+      type: String,
+      required: true,
+      minlength: 1,
+      maxlength: 8,
+    },
+    zip: {
+      type: String,
+      minlength: 1,
+      maxlength: 14,
+    },
+    _id: {
+      type: mongoose.Types.ObjectId,
+      default: new mongoose.mongo.ObjectId(),
+    },
+  },
+  isAdmin: {
+    type: Boolean,
+    required: true,
+  },
+  biz: {
+    type: Boolean,
+    required: true,
+  },
+  createdAt: { type: Date, default: Date.now },
+  cards: Array,
+});
 ```
 
 
