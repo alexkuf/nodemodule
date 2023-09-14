@@ -20,13 +20,10 @@ _Below is an example of how you can instruct your audience on installing and set
    npm install
    ```
 2. Install Chalk version:
-  ```sh
+   ```sh
    npm i chalk@4.1.2 
    ```
-5. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
