@@ -28,7 +28,10 @@ _Chalk should only 4.1.2 version._
     ```sh
     npm run dev
     ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 
