@@ -88,6 +88,6 @@ _Below is an example of how you can instruct your audience on installing and set
 [Mongoose.js]: https://img.shields.io/badge/Mongoose-0769AD?style=for-the-badge&logo=mongoose&logoColor=white
 [Mongoose-url]: https://mongoosejs.com/
 [Chalk]: https://img.shields.io/badge/Chalk-0769AD?style=for-the-badge&logo=chalk&logoColor=white
-[Chalk-url]: https://www.npmjs.com/package/chalk
+[Chalk-url]: https://github.com/chalk/chalk/blob/HEAD/media/logo.svg
 [Cors]: https://img.shields.io/badge/Cors-0769AD?style=for-the-badge&logo=cors&logoColor=white
 [Cors-url]: https://www.npmjs.com/package/cors
