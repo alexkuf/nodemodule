@@ -9,7 +9,7 @@ Server-side development for a web application that includes a management system 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
  [![Node][Node.js]][Node-url]  [![MongoDB][MongoDB]][MongoDB-url]  [![Express][Express.js]][Express-url]  [![Bcrypt][Bcrypt.js]][Bcrypt-url]  [![JWT][JWT]][JWT-url]  [![joi][joi]][joi-url] [![Morgan][Morgan]][Morgan-url]
- [![Mongoose][Mongoose.js]][Mongoose-url]  [![Chalk][Chalk.dev]][Chalk-url]  [![Cors][Cors]][Cors-url]
+ [![Mongoose][Mongoose.js]][Mongoose-url]  [![Chalk][Chalk]][Chalk-url]  [![Cors][Cors]][Cors-url]
 
 
 
@@ -87,7 +87,7 @@ _Below is an example of how you can instruct your audience on installing and set
 [Morgan-url]:https://coralogix.com/
 [Mongoose.js]: https://img.shields.io/badge/Mongoose-0769AD?style=for-the-badge&logo=mongoose&logoColor=white
 [Mongoose-url]: https://mongoosejs.com/
-[Chalk.dev]: https://img.shields.io/badge/Chalkdev-0769AD?style=for-the-badge&logo=chalk&logoColor=white
+[Chalk]: https://img.shields.io/badge/Chalk-8A2BE2?style=for-the-badge&logo=chalk&logoColor=white
 [Chalk-url]: https://www.npmjs.com/package/chalk
 [Cors]: https://img.shields.io/badge/Cors-0769AD?style=for-the-badge&logo=cors&logoColor=white
 [Cors-url]: https://www.npmjs.com/package/cors
