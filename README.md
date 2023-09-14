@@ -41,7 +41,10 @@ _Chalk should only 4.1.2 version._
 | /user | POST | All | Registered user|
 | /useers/login | POST | All | Login |
 | /useers | GET | Admin | Get all users |
-| /useers/:id | GET | All | The Registered user or admin|
+| /useers/:id | GET | The Registered user or admin | Get user|
+| /useers/:id | PUT | The Registered user | Edit user|
+| /useers/:id | PATCH | The Registered user | Chsnge isBusiness status|
+| /useers/:id | DELETE | The Registered user or admin  | Delete user|
 
 
 
